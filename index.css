@@ -1,17 +1,23 @@
 body{
     /* height: 100vh; */
+    /* height: 200em; */
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: hsl(30, 54%, 90%);
+    margin: 10em 0 10em 0;
 }
 
+.container{
+    height: 100em;
+}
 
 .wrapper{
-    width: 40vw;
+    width: 35em;
     padding: 3em;
     border-radius: 15px;
     background-color: hsl(0, 0%, 100%);
+    font-size: 12px;
 }
 
 h1{
@@ -20,8 +26,8 @@ h1{
 
 img {
     /* height: 17em; */
-    height: 40vh;
-    width: 40vw;
+    height: 15em;
+    width: 35em;
     border-radius: 15px;
 }
 
