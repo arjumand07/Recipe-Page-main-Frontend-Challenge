@@ -9,7 +9,10 @@ body{
 }
 
 .container{
-    height: 100em;
+    /* height: 100em; */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
 }
 
 .wrapper{
